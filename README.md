@@ -1,2 +1,2 @@
 # hello_world
-welcome to fithub repository
+welcome to github repository
